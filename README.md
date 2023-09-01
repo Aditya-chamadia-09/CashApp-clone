@@ -24,8 +24,6 @@ This sample app shows you how to integrate PayPal into your React app for the [s
 
 ## Run this project
 
-### PayPal Codespaces
-[![Open Code In GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/paypaldev/PayPal-React-FullStack-Standard-Checkout-Sample?devcontainer_path=.devcontainer%2Fdevcontainer.json)
 
 - Rename the `.env.example` file to `.env`.
 - Add your enviroment variables in the .env file.
